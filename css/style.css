@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@400;500&family=Codystar&family=Comfortaa:wght@500&family=Gideon+Roman&family=Kirang+Haerang&family=Libre+Barcode+128+Text&family=Mukta&family=Noto+Serif+Display:ital,wght@1,500&family=Poiret+One&family=Raleway+Dots&family=Single+Day&family=Source+Serif+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&family=Train+One&family=Varela+Round&family=Vibes&family=Work+Sans:wght@100;200&family=Zen+Kaku+Gothic+Antique&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body{
+  font-family: 'Zen Kaku Gothic Antique', sans-serif ;
+  font-size: 22px;
+  margin: 0px;
+}
+
+h1{
+  font-family:'Source Serif Pro', serif;
+  font-weight: bold;
+  font-size: 40px;
+ color: #6d8484;
+}
+
+h2{
+  font-family:'Source Serif Pro', serif;
+  font-size: 30px;
+  color: dimgrey;
+  text-align: center;
+}
+
+h3{
+  font-family:'Source Serif Pro', serif;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+.icon{
+  list-style: none;
+  padding-left: 0px;
+  text-align: center;
+
+
+}
+
+.icon li {
+  display: inline;
+  padding: 10px;
+}
+
+.icon i {
+  font-size: 50px;
+  color: darkslategrey ;
+}
+
+.icon i:hover {
+  font-size: 50px;
+  color: #EDEDED;
+}
+
+a{
+margin: auto;
+}
